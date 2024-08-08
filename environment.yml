@@ -1,0 +1,7 @@
+name: mojofft
+channels:
+  - anaconda
+dependencies:
+  - python==3.11
+  - matplotlib
+  - pytorch
